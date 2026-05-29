@@ -18,7 +18,7 @@
     --link-bg: #000080;
     --link-texto: #89CFF0;
     --link-bg-hover: blue;
-    --btn-troca-bg: #007fff;
+    --btn-troca-bg: #03aacf;
 }
 
 body.dark {
@@ -30,7 +30,7 @@ body.dark {
     --link-bg: #00A6CB;
     --link-texto: #080168;
     --link-bg-hover: #084d6e;
-    --btn-troca-bg: blue;
+    --btn-troca-bg: rgb(4, 4, 131);
 }
 
 h1 {
